@@ -59,10 +59,10 @@ python detect.py --weights runs/segment/cell/best.pt --img 640 --conf 0.25 --sou
 ## Results
 
 - **defects pred**
-  <img src="results/val_batch0_pred.jpg" height="500px" width="100%"
+  <img src="runs\segment\cell\val_batch2_pred.jpg" height="500px" width="100%"
         style="object-fit:contain"
     />
 - **defects label**
-  <img src="results/val_batch0_labels.jpg" height="500px" width="100%"
+  <img src="runs\segment\cell\val_batch2_labels.jpg" height="500px" width="100%"
         style="object-fit:contain"
     />
