@@ -52,17 +52,17 @@ python detect.py --weights runs/segment/cell/best.pt --img 640 --conf 0.25 --sou
 ## Metrics
 
 - **defects label**
-  <img src="runs\segment\cell\results.png" height="400px" width="100%"
+  <img src="runs\segment\cell\results.png" height="3500px" width="100%"
         style="object-fit:contain"
     />
 
 ## Results
 
 - **defects pred**
-  <img src="runs\segment\cell\val_batch2_pred.jpg" height="500px" width="100%"
+  <img src="runs\segment\cell\val_batch2_pred.jpg" height="500px" width="70%"
         style="object-fit:contain"
     />
 - **defects label**
-  <img src="runs\segment\cell\val_batch2_labels.jpg" height="500px" width="100%"
+  <img src="runs\segment\cell\val_batch2_labels.jpg" height="500px" width="70%"
         style="object-fit:contain"
     />
