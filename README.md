@@ -52,7 +52,7 @@ python detect.py --weights runs/segment/cell/best.pt --img 640 --conf 0.25 --sou
 ## Metrics
 
 - **defects label**
-  <img src="runs\segment\cell\results.png" height="3500px" width="100%"
+  <img src="runs\segment\cell\results.png" height="350px" width="100%"
         style="object-fit:contain"
     />
 
