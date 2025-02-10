@@ -38,7 +38,7 @@ To set up the project environment, follow these steps:
 To train the model with your dataset:
 
 ```bash
-python train.py --data data.yaml --weights yolov11n-seg.pt --epochs 500 --batch 64 --img 640
+python train.py 
 ```
 
 ### Inference
